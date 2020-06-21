@@ -20,7 +20,7 @@ def cli_prompt():
             servent_ip = input_data['host_ip']
             listener_port = input_data['host_port']
             Node().start_connection(servent_ip, listener_port)
-            sys.stdout.write("Connected to server!!\n")
+            sys.stdout.write("Connected to servent!!\n")
         elif Operation == 'Ping':
             if variable.connections:
                 request_object.get_connected_hosts()
