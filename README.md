@@ -1,6 +1,6 @@
 # Python Gnutella
 
-A simple Gnutella-like file sharing system with a command line interface
+A simple Gnutella-like file sharing protocol tool with a command line interface
 
 ## Requirements
 
