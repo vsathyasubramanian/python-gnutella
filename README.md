@@ -6,12 +6,14 @@ A simple Gnutella-like file sharing protocol tool with a command line interface
 
 Python version > 3.6
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required additional packages.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required additional packages. All the required additional packages are available in requirements.txt
+
+PyInquirer
+pyfiglet
+tabulate
 
 ```bash
-pip install PyInquirer
-pip install pyfiglet
-pip install tabulate
+pip -r /tmp/requirements.txt
 ```
 
 ## Usage
