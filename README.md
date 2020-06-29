@@ -9,7 +9,7 @@ Python version > 3.6
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required additional packages. All the required additional packages are available in requirements.txt
 
 ```bash
-pip -r /tmp/requirements.txt
+pip -r requirements.txt
 ```
 
 ## Usage
